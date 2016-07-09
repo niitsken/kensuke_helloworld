@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'kensuke_helloworld/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "kensuke_helloworld"
+  spec.name          = "a15z7kn_niitsuma_kensuke"
   spec.version       = KensukeHelloworld::VERSION
   spec.authors       = ["Write your name"]
   spec.email         = ["Write your email address"]
